@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Error_Correcting_Encoder-Decoder.iml" filepath="$PROJECT_DIR$/.idea/modules/Error_Correcting_Encoder-Decoder.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Backward indexes/Error_Correcting_Encoder-Decoder.Problems-Backward_indexes.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Backward indexes/Error_Correcting_Encoder-Decoder.Problems-Backward_indexes.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Backward indexes/Error_Correcting_Encoder-Decoder.Problems-Backward_indexes.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Backward indexes/Error_Correcting_Encoder-Decoder.Problems-Backward_indexes.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Backward indexes/Error_Correcting_Encoder-Decoder.Problems-Backward_indexes.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Backward indexes/Error_Correcting_Encoder-Decoder.Problems-Backward_indexes.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Count the value occurrences/Error_Correcting_Encoder-Decoder.Problems-Count_the_value_occurrences.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Count the value occurrences/Error_Correcting_Encoder-Decoder.Problems-Count_the_value_occurrences.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Count the value occurrences/Error_Correcting_Encoder-Decoder.Problems-Count_the_value_occurrences.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Count the value occurrences/Error_Correcting_Encoder-Decoder.Problems-Count_the_value_occurrences.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Count the value occurrences/Error_Correcting_Encoder-Decoder.Problems-Count_the_value_occurrences.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Count the value occurrences/Error_Correcting_Encoder-Decoder.Problems-Count_the_value_occurrences.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Split a list into sublists/Error_Correcting_Encoder-Decoder.Problems-Split_a_list_into_sublists.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Split a list into sublists/Error_Correcting_Encoder-Decoder.Problems-Split_a_list_into_sublists.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Split a list into sublists/Error_Correcting_Encoder-Decoder.Problems-Split_a_list_into_sublists.main.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Split a list into sublists/Error_Correcting_Encoder-Decoder.Problems-Split_a_list_into_sublists.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/Problems/Split a list into sublists/Error_Correcting_Encoder-Decoder.Problems-Split_a_list_into_sublists.test.iml" filepath="$PROJECT_DIR$/.idea/modules/Problems/Split a list into sublists/Error_Correcting_Encoder-Decoder.Problems-Split_a_list_into_sublists.test.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Error_Correcting_Encoder-Decoder.util.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Error_Correcting_Encoder-Decoder.util.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Error_Correcting_Encoder-Decoder.util.main.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Error_Correcting_Encoder-Decoder.util.main.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/util/Error_Correcting_Encoder-Decoder.util.test.iml" filepath="$PROJECT_DIR$/.idea/modules/util/Error_Correcting_Encoder-Decoder.util.test.iml" />
+    </modules>
+  </component>
+</project>

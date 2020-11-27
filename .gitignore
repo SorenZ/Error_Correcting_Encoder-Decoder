@@ -1,0 +1,4 @@
+# Project exclude paths
+/.gradle/
+/Problems/Split a list into sublists/out/
+/Problems/Split a list into sublists/out/production/classes/
