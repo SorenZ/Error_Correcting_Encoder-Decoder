@@ -7,7 +7,7 @@
     <content url="file://$MODULE_DIR$/../../../../Problems/No &quot;J&quot;/test" />
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
-    <orderEntry type="module" module-name="No &quot;J&quot;.Error_Correcting_Encoder-Decoder.Problems-No__J_.main" />
+    <orderEntry type="module" module-name="Problems.No &quot;J&quot;.Error_Correcting_Encoder-Decoder.Problems-No__J_.main" />
     <orderEntry type="module" module-name="Error_Correcting_Encoder-Decoder.util.main" />
     <orderEntry type="module" module-name="Error_Correcting_Encoder-Decoder.util.test" production-on-test="" />
     <orderEntry type="library" name="Gradle: junit:junit:4.12" level="project" />
